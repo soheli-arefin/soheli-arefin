@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://i.gifer.com/J4o.gif)">
 <h1 align="center">Hiya, This is Kona</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
 ![J4o](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/0f609b08-f68f-46dd-bd99-5c7678033c95)
