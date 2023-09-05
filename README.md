@@ -1,6 +1,7 @@
+![NPVm](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/811ae381-bb2b-4e10-a484-dbf634e47a35)![5TMy](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/e90967f9-afcd-4abf-a673-13eb5ba13731)
+
 <h1 align="center">Hiya, This is Kona</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
-![NPVm](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/811ae381-bb2b-4e10-a484-dbf634e47a35)
 
 
 
