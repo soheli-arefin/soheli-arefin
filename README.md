@@ -1,5 +1,5 @@
-![J4o](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/50eeb70f-89ac-4680-b5cc-64b595b5c8f4)[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hiya 👋, This is Kona</h1>
+
+<h1 align="center">Hiya, This is Kona</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
 ![J4o](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/0f609b08-f68f-46dd-bd99-5c7678033c95)
 
