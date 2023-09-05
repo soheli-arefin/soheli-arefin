@@ -7,7 +7,6 @@
 
 
 
-[![MasterHead]([[https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss]](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/9a4e2762-2a9d-48cc-b5d4-ea1cfcee0e52)(https://i.gifer.com/J59.gif))](https://codegrills.in)
 
 
 
