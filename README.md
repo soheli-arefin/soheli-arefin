@@ -1,7 +1,7 @@
-![J59](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/9a4e2762-2a9d-48cc-b5d4-ea1cfcee0e52)![J59](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/9a4e2762-2a9d-48cc-b5d4-ea1cfcee0e52)
-![J4o](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/62152242-c387-4928-8348-0fc379afa1bf)
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://i.gifer.com/J4o.gif)">
+![NPVm](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/811ae381-bb2b-4e10-a484-dbf634e47a35)
+
+
 <h1 align="center">Hiya, This is Kona</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
 
