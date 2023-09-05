@@ -1,4 +1,4 @@
-![J4o (1)](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/84909bee-a3d4-48f0-b172-ca671fdcc529)![J4o (1)](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/84909bee-a3d4-48f0-b172-ca671fdcc529)
+![5ARz](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/2556b001-bdf9-4eb2-946f-568ce12ead0b)![5ARz](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/2556b001-bdf9-4eb2-946f-568ce12ead0b)
 
 <h1 align="center">Hiya, This is Kona</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
