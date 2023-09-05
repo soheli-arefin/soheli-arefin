@@ -1,5 +1,5 @@
 ![SUV4](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/877c98f5-f9a0-43f2-82b2-1bbb3d42eb37)
-![SUV4](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/4e6f0759-cd47-4412-914f-77ec6a0745eb)![SUV4](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/4e6f0759-cd47-4412-914f-77ec6a0745eb)
+![SUV4](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/4e6f0759-cd47-4412-914f-77ec6a0745eb)
 
 
 <h1 align="center">Hiya, This is Kona</h1>
