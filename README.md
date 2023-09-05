@@ -1,6 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![J4o](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/50eeb70f-89ac-4680-b5cc-64b595b5c8f4)[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hiya 👋, This is Kona</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
+![J4o](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/0f609b08-f68f-46dd-bd99-5c7678033c95)
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fbinary&psig=AOvVaw1Cg5h8UF0L8qgtklt8gSSj&ust=1694004668745000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCpouzAk4EDFQAAAAAdAAAAABBh">
 
