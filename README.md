@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hiya, This is Kona</h1>
-<h3 align="center">A passionate MERN STACK developer</h3>
+<h3 align="center">Self taught MERN STACK developer</h3>
 
 
 
