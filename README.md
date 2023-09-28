@@ -1,7 +1,5 @@
-
-![ezgif-3-0f5c3160cb](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/33667be6-2cfc-4404-902b-bcae41777ee6)
-![ezgif-3-0f5c3160cb](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/33667be6-2cfc-4404-902b-bcae41777ee6)
-
+![giphy](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/9001abac-dc3c-4790-a61e-4571de464d29)
+![giphy](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/9001abac-dc3c-4790-a61e-4571de464d29)
 
 
 <h1 align="center">Hiya, This is Kona</h1>
