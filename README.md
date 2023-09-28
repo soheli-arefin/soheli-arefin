@@ -1,8 +1,7 @@
 
 ![Cad](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/4933b402-de15-41fb-bf2b-1e4b1ff8aaaa)![Cad](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/4933b402-de15-41fb-bf2b-1e4b1ff8aaaa)![Cad](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/4933b402-de15-41fb-bf2b-1e4b1ff8aaaa)![Cad](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/4933b402-de15-41fb-bf2b-1e4b1ff8aaaa)
-![1000](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/08823e82-fb6e-46aa-be1c-beb1bb1f4ac3) 
-![1000](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/08823e82-fb6e-46aa-be1c-beb1bb1f4ac3) 
-
+![error-code](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/8c478616-9dfc-4d3f-8722-3d335b58a1cd)
+![error-code](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/8c478616-9dfc-4d3f-8722-3d335b58a1cd)
 
 <h1 align="center">Hiya, This is Kona</h1>
 <h3 align="center">Self taught MERN STACK Developer</h3>
