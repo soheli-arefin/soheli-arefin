@@ -1,5 +1,5 @@
-![giphy](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/9001abac-dc3c-4790-a61e-4571de464d29)
-![giphy](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/9001abac-dc3c-4790-a61e-4571de464d29)
+
+![hacker](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/c7e55336-00f7-4249-9055-66dc28b8f5ae)
 
 
 <h1 align="center">Hiya, This is Kona</h1>
