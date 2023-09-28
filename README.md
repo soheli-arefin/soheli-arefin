@@ -1,8 +1,4 @@
-
-![cyberpunk-hacker](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/14762b99-9d84-4ca1-8916-d19dc274f37b)
-![cyberpunk-hacker (1)](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/dc5f0559-cc6e-4a94-a3ac-ba3e98782b7b)
-
-
+![atr](https://github.com/soheli-arefin/soheli-arefin/assets/118656322/713423b2-3ac4-4f29-92e8-183a1eb750ce)
 
 
 
